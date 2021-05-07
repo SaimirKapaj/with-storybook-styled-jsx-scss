@@ -24,7 +24,7 @@ export const Page: React.FC<PageProps> = ({
         onCreateAccount={onCreateAccount}
       />
       <section>
-        <h2>Example app with Storybook setup for SCSS in Styled-jsx 2</h2>
+        <h2>Example app with Storybook setup for SCSS in Styled-jsx 3</h2>
         <p>
           This example shows Styled-jsx (with SCSS) working for components
           rendered both inside and outside of Storybook.
