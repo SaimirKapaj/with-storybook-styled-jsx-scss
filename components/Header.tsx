@@ -40,7 +40,7 @@ export const Header: React.FC<HeaderProps> = ({
               />
             </g>
           </svg>
-          <h1>Acme</h1>
+          <h1>Acmse</h1>
         </div>
         <div>
           {user ? (
